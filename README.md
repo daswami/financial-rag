@@ -84,10 +84,4 @@ The application is configured for deployment on Render.com. The necessary config
 - The application is configured to run with `DEBUG=True` in development. For production, set `DEBUG=False` and update `ALLOWED_HOSTS` accordingly
 - Ensure proper security measures are in place when handling sensitive financial documents
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Add your chosen license here]
