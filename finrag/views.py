@@ -98,7 +98,7 @@ def upload_pdf(request):
                 # Define the three specific queries for stock history
                 queries = {
                     'total_gain_loss': 'What is the total gain/loss?',
-                    'account_info': 'What is the name and type of account?',
+                    'account_info': 'What is the name on the account?',
                     'buy_sell_prices': 'What are the buy and sell prices of each stock?'
                 }
                 

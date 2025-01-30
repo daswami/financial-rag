@@ -25,7 +25,10 @@ SECRET_KEY = 'django-insecure-pv%vz(c#vure1xsiw4=xvmmp^#3^q31eho+$58*n51ttsp5@-d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["finrag.onrender.com"]
+
+# Ensure static files are served correctly
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 
 # Application definition
