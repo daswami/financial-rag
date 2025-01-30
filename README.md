@@ -76,7 +76,9 @@ chmod +x start.sh
 
 ## Deployment
 
-The application is configured for deployment on Render.com. The necessary configuration files are included in the repository.
+The application is configured for deployment on Render.com. 
+The deployment is located at https://finrag.onrender.com/
+The necessary configuration files are included in the repository.
 
 ## Security Notes
 
